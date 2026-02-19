@@ -22,4 +22,4 @@ Hi, I m just a coder.<br>I don't have anything to brag about.<br>Chilling, codin
 ## Contributions
 
 ---
-[![](https://visitcount.itsvg.in/api?id=openvaibhav&icon=0&color=11)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/openvaibhav/count.svg)
