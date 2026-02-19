@@ -17,7 +17,7 @@ Hi, I m just a coder.<br>I don't have anything to brag about.<br>Chilling, codin
 ![](https://github-profile-trophy.vercel.app/?username=openvaibhav&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Quote
-!<img width="600" height="156" alt="image" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<img width="700" height="156" alt="image" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 ## Contributions
 
