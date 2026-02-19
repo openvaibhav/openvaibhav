@@ -10,7 +10,7 @@ Hi, I m just a coder.<br>I don't have anything to brag about.<br>Chilling, codin
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=openvaibhav&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-<img width="620" height="350" alt="image" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<img width="620" height="250" alt="image" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=openvaibhav&limit=5&theme=dark&combine_all_yearly_contributions=true)
